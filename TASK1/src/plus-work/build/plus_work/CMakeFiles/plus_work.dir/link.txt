@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/plus_work.dir/src/plus.cpp.o -o plus_work  -Wl,-rpath,/opt/ros/humble/lib /usr/lib/x86_64-linux-gnu/libyaml-cpp.so.0.7.0 /opt/ros/humble/lib/libament_index_cpp.so 

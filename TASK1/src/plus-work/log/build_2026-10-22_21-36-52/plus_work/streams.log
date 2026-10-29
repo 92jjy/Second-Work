@@ -1,0 +1,34 @@
+[0.007s] Invoking command in '/home/jjy/Second-Work/TASK1/src/plus-work/build/plus_work': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/jjy/Second-Work/TASK1/src/plus-work -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/jjy/Second-Work/TASK1/src/plus-work/install/plus_work
+[0.017s] -- Found ament_cmake: 1.3.14 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.085s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.090s] -- Found ament_index_cpp: 1.4.1 (/opt/ros/humble/share/ament_index_cpp/cmake)
+[0.128s] -- Configuring done
+[0.130s] -- Generating done
+[0.131s] -- Build files have been written to: /home/jjy/Second-Work/TASK1/src/plus-work/build/plus_work
+[0.133s] Invoked command in '/home/jjy/Second-Work/TASK1/src/plus-work/build/plus_work' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/jjy/Second-Work/TASK1/src/plus-work -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/jjy/Second-Work/TASK1/src/plus-work/install/plus_work
+[0.134s] Invoking command in '/home/jjy/Second-Work/TASK1/src/plus-work/build/plus_work': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/jjy/Second-Work/TASK1/src/plus-work/build/plus_work
+[0.175s] [35m[1mConsolidate compiler generated dependencies of target plus_work[0m
+[0.187s] [ 50%] [32m[1mLinking CXX executable plus_work[0m
+[0.251s] [100%] Built target plus_work
+[0.259s] Invoked command in '/home/jjy/Second-Work/TASK1/src/plus-work/build/plus_work' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/jjy/Second-Work/TASK1/src/plus-work/build/plus_work
+[0.267s] Invoking command in '/home/jjy/Second-Work/TASK1/src/plus-work/build/plus_work': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/jjy/Second-Work/TASK1/src/plus-work/build/plus_work
+[0.275s] -- Install configuration: ""
+[0.276s] -- Execute custom install script
+[0.276s] -- Symlinking: /home/jjy/Second-Work/TASK1/src/plus-work/install/plus_work/lib/plus_work/plus_work
+[0.285s] -- Symlinking: /home/jjy/Second-Work/TASK1/src/plus-work/install/plus_work/share/plus_work/config/config.yaml
+[0.294s] -- Symlinking: /home/jjy/Second-Work/TASK1/src/plus-work/install/plus_work/share/ament_index/resource_index/package_run_dependencies/plus_work
+[0.303s] -- Symlinking: /home/jjy/Second-Work/TASK1/src/plus-work/install/plus_work/share/ament_index/resource_index/parent_prefix_path/plus_work
+[0.313s] -- Symlinking: /home/jjy/Second-Work/TASK1/src/plus-work/install/plus_work/share/plus_work/environment/ament_prefix_path.sh
+[0.322s] -- Symlinking: /home/jjy/Second-Work/TASK1/src/plus-work/install/plus_work/share/plus_work/environment/ament_prefix_path.dsv
+[0.334s] -- Symlinking: /home/jjy/Second-Work/TASK1/src/plus-work/install/plus_work/share/plus_work/environment/path.sh
+[0.344s] -- Symlinking: /home/jjy/Second-Work/TASK1/src/plus-work/install/plus_work/share/plus_work/environment/path.dsv
+[0.352s] -- Symlinking: /home/jjy/Second-Work/TASK1/src/plus-work/install/plus_work/share/plus_work/local_setup.bash
+[0.361s] -- Symlinking: /home/jjy/Second-Work/TASK1/src/plus-work/install/plus_work/share/plus_work/local_setup.sh
+[0.371s] -- Symlinking: /home/jjy/Second-Work/TASK1/src/plus-work/install/plus_work/share/plus_work/local_setup.zsh
+[0.377s] -- Symlinking: /home/jjy/Second-Work/TASK1/src/plus-work/install/plus_work/share/plus_work/local_setup.dsv
+[0.385s] -- Symlinking: /home/jjy/Second-Work/TASK1/src/plus-work/install/plus_work/share/plus_work/package.dsv
+[0.390s] -- Symlinking: /home/jjy/Second-Work/TASK1/src/plus-work/install/plus_work/share/ament_index/resource_index/packages/plus_work
+[0.397s] -- Symlinking: /home/jjy/Second-Work/TASK1/src/plus-work/install/plus_work/share/plus_work/cmake/plus_workConfig.cmake
+[0.405s] -- Symlinking: /home/jjy/Second-Work/TASK1/src/plus-work/install/plus_work/share/plus_work/cmake/plus_workConfig-version.cmake
+[0.414s] -- Symlinking: /home/jjy/Second-Work/TASK1/src/plus-work/install/plus_work/share/plus_work/package.xml
+[0.429s] Invoked command in '/home/jjy/Second-Work/TASK1/src/plus-work/build/plus_work' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/jjy/Second-Work/TASK1/src/plus-work/build/plus_work

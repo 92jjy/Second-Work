@@ -1,0 +1,16 @@
+In file included from [01m[K/home/jjy/Second-Work/TASK1/src/plus-work/src/plus.cpp:2[m[K:
+[01m[K/home/jjy/Second-Work/TASK1/src/plus-work/src/manager.hpp:[m[K In member function ‘[01m[Kbool manager::less(const string&, YAML::Node)[m[K’:
+[01m[K/home/jjy/Second-Work/TASK1/src/plus-work/src/manager.hpp:50:34:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kfilepath[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-parameter-Wunused-parameter]8;;[m[K]
+   50 |     bool less([01;35m[Kconst std::string& filepath[m[K, YAML::Node config){
+      |               [01;35m[K~~~~~~~~~~~~~~~~~~~^~~~~~~~[m[K
+[01m[K/home/jjy/Second-Work/TASK1/src/plus-work/src/manager.hpp:[m[K In member function ‘[01m[Kbool manager::erro(const string&, YAML::Node)[m[K’:
+[01m[K/home/jjy/Second-Work/TASK1/src/plus-work/src/manager.hpp:58:34:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kfilepath[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-parameter-Wunused-parameter]8;;[m[K]
+   58 |     bool erro([01;35m[Kconst std::string& filepath[m[K, YAML::Node config){
+      |               [01;35m[K~~~~~~~~~~~~~~~~~~~^~~~~~~~[m[K
+[01m[K/home/jjy/Second-Work/TASK1/src/plus-work/src/plus.cpp:[m[K In function ‘[01m[Kint main(int, char**)[m[K’:
+[01m[K/home/jjy/Second-Work/TASK1/src/plus-work/src/plus.cpp:7:14:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kargc[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-parameter-Wunused-parameter]8;;[m[K]
+    7 | int main([01;35m[Kint argc[m[K, char ** argv) {
+      |          [01;35m[K~~~~^~~~[m[K
+[01m[K/home/jjy/Second-Work/TASK1/src/plus-work/src/plus.cpp:7:28:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kargv[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-parameter-Wunused-parameter]8;;[m[K]
+    7 | int main(int argc, [01;35m[Kchar ** argv[m[K) {
+      |                    [01;35m[K~~~~~~~~^~~~[m[K

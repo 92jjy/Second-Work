@@ -1,0 +1,10 @@
+/home/jjy/Second-Work/TASK1/src/plus-work/build/plus_work/CMakeFiles/uninstall.dir
+/home/jjy/Second-Work/TASK1/src/plus-work/build/plus_work/CMakeFiles/plus_work_uninstall.dir
+/home/jjy/Second-Work/TASK1/src/plus-work/build/plus_work/CMakeFiles/plus_work.dir
+/home/jjy/Second-Work/TASK1/src/plus-work/build/plus_work/CMakeFiles/test.dir
+/home/jjy/Second-Work/TASK1/src/plus-work/build/plus_work/CMakeFiles/edit_cache.dir
+/home/jjy/Second-Work/TASK1/src/plus-work/build/plus_work/CMakeFiles/rebuild_cache.dir
+/home/jjy/Second-Work/TASK1/src/plus-work/build/plus_work/CMakeFiles/list_install_components.dir
+/home/jjy/Second-Work/TASK1/src/plus-work/build/plus_work/CMakeFiles/install.dir
+/home/jjy/Second-Work/TASK1/src/plus-work/build/plus_work/CMakeFiles/install/local.dir
+/home/jjy/Second-Work/TASK1/src/plus-work/build/plus_work/CMakeFiles/install/strip.dir

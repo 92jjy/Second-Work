@@ -1,0 +1,4 @@
+Invoking command in '/home/jjy/Second-Work/TASK1/src/plus-work/build/plus_work': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/jjy/Second-Work/TASK1/src/plus-work/build/plus_work
+Invoked command in '/home/jjy/Second-Work/TASK1/src/plus-work/build/plus_work' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/jjy/Second-Work/TASK1/src/plus-work/build/plus_work
+Invoking command in '/home/jjy/Second-Work/TASK1/src/plus-work/build/plus_work': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/jjy/Second-Work/TASK1/src/plus-work/build/plus_work
+Invoked command in '/home/jjy/Second-Work/TASK1/src/plus-work/build/plus_work' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/jjy/Second-Work/TASK1/src/plus-work/build/plus_work

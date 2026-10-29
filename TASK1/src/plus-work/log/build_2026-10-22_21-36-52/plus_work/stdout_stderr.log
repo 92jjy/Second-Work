@@ -1,0 +1,28 @@
+-- Found ament_cmake: 1.3.14 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Override CMake install command with custom implementation using symlinks instead of copying resources
+-- Found ament_index_cpp: 1.4.1 (/opt/ros/humble/share/ament_index_cpp/cmake)
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/jjy/Second-Work/TASK1/src/plus-work/build/plus_work
+[35m[1mConsolidate compiler generated dependencies of target plus_work[0m
+[ 50%] [32m[1mLinking CXX executable plus_work[0m
+[100%] Built target plus_work
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/jjy/Second-Work/TASK1/src/plus-work/install/plus_work/lib/plus_work/plus_work
+-- Symlinking: /home/jjy/Second-Work/TASK1/src/plus-work/install/plus_work/share/plus_work/config/config.yaml
+-- Symlinking: /home/jjy/Second-Work/TASK1/src/plus-work/install/plus_work/share/ament_index/resource_index/package_run_dependencies/plus_work
+-- Symlinking: /home/jjy/Second-Work/TASK1/src/plus-work/install/plus_work/share/ament_index/resource_index/parent_prefix_path/plus_work
+-- Symlinking: /home/jjy/Second-Work/TASK1/src/plus-work/install/plus_work/share/plus_work/environment/ament_prefix_path.sh
+-- Symlinking: /home/jjy/Second-Work/TASK1/src/plus-work/install/plus_work/share/plus_work/environment/ament_prefix_path.dsv
+-- Symlinking: /home/jjy/Second-Work/TASK1/src/plus-work/install/plus_work/share/plus_work/environment/path.sh
+-- Symlinking: /home/jjy/Second-Work/TASK1/src/plus-work/install/plus_work/share/plus_work/environment/path.dsv
+-- Symlinking: /home/jjy/Second-Work/TASK1/src/plus-work/install/plus_work/share/plus_work/local_setup.bash
+-- Symlinking: /home/jjy/Second-Work/TASK1/src/plus-work/install/plus_work/share/plus_work/local_setup.sh
+-- Symlinking: /home/jjy/Second-Work/TASK1/src/plus-work/install/plus_work/share/plus_work/local_setup.zsh
+-- Symlinking: /home/jjy/Second-Work/TASK1/src/plus-work/install/plus_work/share/plus_work/local_setup.dsv
+-- Symlinking: /home/jjy/Second-Work/TASK1/src/plus-work/install/plus_work/share/plus_work/package.dsv
+-- Symlinking: /home/jjy/Second-Work/TASK1/src/plus-work/install/plus_work/share/ament_index/resource_index/packages/plus_work
+-- Symlinking: /home/jjy/Second-Work/TASK1/src/plus-work/install/plus_work/share/plus_work/cmake/plus_workConfig.cmake
+-- Symlinking: /home/jjy/Second-Work/TASK1/src/plus-work/install/plus_work/share/plus_work/cmake/plus_workConfig-version.cmake
+-- Symlinking: /home/jjy/Second-Work/TASK1/src/plus-work/install/plus_work/share/plus_work/package.xml

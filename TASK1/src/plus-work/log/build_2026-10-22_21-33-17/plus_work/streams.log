@@ -1,0 +1,25 @@
+[0.007s] Invoking command in '/home/jjy/Second-Work/TASK1/src/plus-work/build/plus_work': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/jjy/Second-Work/TASK1/src/plus-work/build/plus_work
+[0.032s] [35m[1mConsolidate compiler generated dependencies of target plus_work[0m
+[0.041s] [100%] Built target plus_work
+[0.046s] Invoked command in '/home/jjy/Second-Work/TASK1/src/plus-work/build/plus_work' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/jjy/Second-Work/TASK1/src/plus-work/build/plus_work
+[0.052s] Invoking command in '/home/jjy/Second-Work/TASK1/src/plus-work/build/plus_work': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/jjy/Second-Work/TASK1/src/plus-work/build/plus_work
+[0.057s] -- Install configuration: ""
+[0.057s] -- Up-to-date: /home/jjy/Second-Work/TASK1/src/plus-work/install/plus_work/lib/plus_work/plus_work
+[0.057s] -- Up-to-date: /home/jjy/Second-Work/TASK1/src/plus-work/install/plus_work/share/plus_work/config
+[0.057s] -- Installing: /home/jjy/Second-Work/TASK1/src/plus-work/install/plus_work/share/plus_work/config/config.yaml
+[0.057s] -- Up-to-date: /home/jjy/Second-Work/TASK1/src/plus-work/install/plus_work/share/ament_index/resource_index/package_run_dependencies/plus_work
+[0.057s] -- Up-to-date: /home/jjy/Second-Work/TASK1/src/plus-work/install/plus_work/share/ament_index/resource_index/parent_prefix_path/plus_work
+[0.057s] -- Up-to-date: /home/jjy/Second-Work/TASK1/src/plus-work/install/plus_work/share/plus_work/environment/ament_prefix_path.sh
+[0.057s] -- Up-to-date: /home/jjy/Second-Work/TASK1/src/plus-work/install/plus_work/share/plus_work/environment/ament_prefix_path.dsv
+[0.058s] -- Up-to-date: /home/jjy/Second-Work/TASK1/src/plus-work/install/plus_work/share/plus_work/environment/path.sh
+[0.058s] -- Up-to-date: /home/jjy/Second-Work/TASK1/src/plus-work/install/plus_work/share/plus_work/environment/path.dsv
+[0.058s] -- Up-to-date: /home/jjy/Second-Work/TASK1/src/plus-work/install/plus_work/share/plus_work/local_setup.bash
+[0.058s] -- Up-to-date: /home/jjy/Second-Work/TASK1/src/plus-work/install/plus_work/share/plus_work/local_setup.sh
+[0.058s] -- Up-to-date: /home/jjy/Second-Work/TASK1/src/plus-work/install/plus_work/share/plus_work/local_setup.zsh
+[0.058s] -- Up-to-date: /home/jjy/Second-Work/TASK1/src/plus-work/install/plus_work/share/plus_work/local_setup.dsv
+[0.058s] -- Up-to-date: /home/jjy/Second-Work/TASK1/src/plus-work/install/plus_work/share/plus_work/package.dsv
+[0.058s] -- Up-to-date: /home/jjy/Second-Work/TASK1/src/plus-work/install/plus_work/share/ament_index/resource_index/packages/plus_work
+[0.058s] -- Up-to-date: /home/jjy/Second-Work/TASK1/src/plus-work/install/plus_work/share/plus_work/cmake/plus_workConfig.cmake
+[0.058s] -- Up-to-date: /home/jjy/Second-Work/TASK1/src/plus-work/install/plus_work/share/plus_work/cmake/plus_workConfig-version.cmake
+[0.058s] -- Up-to-date: /home/jjy/Second-Work/TASK1/src/plus-work/install/plus_work/share/plus_work/package.xml
+[0.059s] Invoked command in '/home/jjy/Second-Work/TASK1/src/plus-work/build/plus_work' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/jjy/Second-Work/TASK1/src/plus-work/build/plus_work

@@ -1,0 +1,21 @@
+[35m[1mConsolidate compiler generated dependencies of target plus_work[0m
+[100%] Built target plus_work
+-- Install configuration: ""
+-- Up-to-date: /home/jjy/Second-Work/TASK1/src/plus-work/install/plus_work/lib/plus_work/plus_work
+-- Up-to-date: /home/jjy/Second-Work/TASK1/src/plus-work/install/plus_work/share/plus_work/config
+-- Installing: /home/jjy/Second-Work/TASK1/src/plus-work/install/plus_work/share/plus_work/config/config.yaml
+-- Up-to-date: /home/jjy/Second-Work/TASK1/src/plus-work/install/plus_work/share/ament_index/resource_index/package_run_dependencies/plus_work
+-- Up-to-date: /home/jjy/Second-Work/TASK1/src/plus-work/install/plus_work/share/ament_index/resource_index/parent_prefix_path/plus_work
+-- Up-to-date: /home/jjy/Second-Work/TASK1/src/plus-work/install/plus_work/share/plus_work/environment/ament_prefix_path.sh
+-- Up-to-date: /home/jjy/Second-Work/TASK1/src/plus-work/install/plus_work/share/plus_work/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/jjy/Second-Work/TASK1/src/plus-work/install/plus_work/share/plus_work/environment/path.sh
+-- Up-to-date: /home/jjy/Second-Work/TASK1/src/plus-work/install/plus_work/share/plus_work/environment/path.dsv
+-- Up-to-date: /home/jjy/Second-Work/TASK1/src/plus-work/install/plus_work/share/plus_work/local_setup.bash
+-- Up-to-date: /home/jjy/Second-Work/TASK1/src/plus-work/install/plus_work/share/plus_work/local_setup.sh
+-- Up-to-date: /home/jjy/Second-Work/TASK1/src/plus-work/install/plus_work/share/plus_work/local_setup.zsh
+-- Up-to-date: /home/jjy/Second-Work/TASK1/src/plus-work/install/plus_work/share/plus_work/local_setup.dsv
+-- Up-to-date: /home/jjy/Second-Work/TASK1/src/plus-work/install/plus_work/share/plus_work/package.dsv
+-- Up-to-date: /home/jjy/Second-Work/TASK1/src/plus-work/install/plus_work/share/ament_index/resource_index/packages/plus_work
+-- Up-to-date: /home/jjy/Second-Work/TASK1/src/plus-work/install/plus_work/share/plus_work/cmake/plus_workConfig.cmake
+-- Up-to-date: /home/jjy/Second-Work/TASK1/src/plus-work/install/plus_work/share/plus_work/cmake/plus_workConfig-version.cmake
+-- Up-to-date: /home/jjy/Second-Work/TASK1/src/plus-work/install/plus_work/share/plus_work/package.xml
